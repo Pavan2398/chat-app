@@ -30,8 +30,11 @@ CLOUDINARY_API_SECRET=...
 NODE_ENV=development
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/Druva4444/full-stack-chat-app.git
-cd full-stack-chat-app
+git clone https://github.com/Pavan2398/chat-app.git
+
+```
+## Change the directory 
+```sh
 node run build
 node run
 cd frontend
