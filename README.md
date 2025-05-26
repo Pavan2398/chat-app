@@ -28,12 +28,12 @@ CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 NODE_ENV=development
-### **1️⃣ Clone the Repository**
+### **1️ Clone the Repository**
 ```sh
 git clone https://github.com/Pavan2398/chat-app.git
 
 ```
-## Change the directory 
+## Change the directory and Run following commands
 ```sh
 node run build
 node run
